@@ -1,0 +1,10 @@
+dependencies:
+  - name: d3
+    version: 1.0.0
+    src: htmlwidgets/lib/
+    script: d3.v3.js
+  - name: cola
+    version: 1.0.0
+    src: htmlwidgets/lib/
+    script: cola.v3.min.js
+
